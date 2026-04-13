@@ -30,4 +30,4 @@ GITHUB STATUS:
 ----------------------------------------------------------------------------------------------------------
 CONTACT
 Email: madhumitharakesh5@gmail.com  
-LinkedIn: https://linkedin._Madhumitha
+LinkedIn: linkedin._Madhumitha
